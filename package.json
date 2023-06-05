@@ -5,7 +5,11 @@
   "license": "MIT",
   "insomnia": {
     "name": "optimizely-contentgraph-hmac",
-    "description": "Adds support for HMAC Authentication when using Optimizely's ContentGraph service"
+    "description": "Adds support for HMAC Authentication when using Optimizely's ContentGraph service",
+    "publisher": {
+      "name": "Kunal Shetye"
+    },
+    "unlisted": false
   },
   "main": "main.js",
   "dependencies": {
