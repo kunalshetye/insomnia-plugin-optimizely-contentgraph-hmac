@@ -8,6 +8,8 @@ Requires the following environment variables to be present
 - Secret
 - GatewayAddress
 
+**Note: The plugin only adds the Authentication header if the ?auth={SingleKey} parameter is missing from the url. This allows you to fetch published content with ?auth paramter and draft content with hmac authentication**
+
 ## Install
 
 1. In Insomnia, go to _Application_ and select _Preferences_
