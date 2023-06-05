@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-optimizely-contentgraph-hmac",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "optimizely-contentgraph-hmac",
+    "description": ""
+  },
+  "main": "main.js"
+}
