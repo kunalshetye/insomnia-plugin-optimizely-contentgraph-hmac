@@ -1,8 +1,12 @@
 {
   "name": "insomnia-plugin-optimizely-contentgraph-hmac",
-  "version": "0.0.1",
-  "author": "Kunal Shetye <kunal.shetye+npm@gmail.com>",
+  "version": "0.0.2",
   "license": "MIT",
+  "homepage": "https://github.com/kunalshetye/insomnia-plugin-optimizely-contentgraph-hmac#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kunalshetye/insomnia-plugin-optimizely-contentgraph-hmac.git"
+  },
   "insomnia": {
     "name": "optimizely-contentgraph-hmac",
     "description": "Adds support for HMAC Authentication when using Optimizely's ContentGraph service",
